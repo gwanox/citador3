@@ -1,6 +1,5 @@
 # cite
 
-npm install express moment morgan axios sharp ejs
+npm install && node index.js
 --
  
- node index.js
