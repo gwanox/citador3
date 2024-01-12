@@ -26,7 +26,7 @@ app.get('/', (req, res) => {
 
 app.get('/oembed.json', (req, res) => {
     res.json({
-        author_url: "",
+        author_url: " ",
         author_name: req.query.usr_json,  // usr_embed
         provider_url: req.query.lnk_json, // lnk_embed
         provider_name: req.query.src_json // src_embed
