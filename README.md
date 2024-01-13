@@ -14,4 +14,4 @@ Request values must be URL encoded.
 
 
 Inspired by https://github.com/pablo-gbr/Citador
-This only uses a link, so it's not against discord TOS.
+My take on it only uses a link, so it's not against discord TOS.
