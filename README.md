@@ -1,8 +1,8 @@
-# cite
-npm install
---
-npm start
+# citador3
+
+
+![alt text](https://i.imgur.com/arvg81O.png)
 --
 
-add your host in index.ejs link tag or discord won't load json data
+add your host adress in index.ejs or discord won't load json data required for the embed
  
